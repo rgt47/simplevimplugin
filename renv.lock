@@ -50,6 +50,12 @@
       "Version": "1.1.5",
       "Source": "Repository",
       "Repository": "CRAN"
+    },
+    "quarto": {
+      "Package": "quarto",
+      "Version": "1.5.1",
+      "Source": "Repository",
+      "Repository": "CRAN"
     }
   }
 }
