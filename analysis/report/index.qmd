@@ -1,6 +1,6 @@
 ---
 title: "A simple vim package for interfacing with a REPL"
-draft: true
+draft: false
 description: "An alternative to Nvim-R and vim-slime"
 categories: [R, vim]
 image: "img/vim.png"
