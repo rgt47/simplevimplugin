@@ -668,6 +668,9 @@ Main takeaways:
 - [vim-slime](
   https://github.com/jpalardy/vim-slime) --
   The tmux-based alternative
+- [Learn Vimscript the Hard Way](
+  https://learnvimscriptthehardway.stevelosh.com/) --
+  Comprehensive guide to writing Vim plugins
 
 # Reproducibility
 
