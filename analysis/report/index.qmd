@@ -6,7 +6,7 @@ subtitle: >
   sending code to an R terminal
 author: "Ronald G. Thomas"
 date: "2025-05-20"
-categories:
+categories: [vim, r, plugin-development, neovim, vimscript]
   [Vim, R Programming, Developer Tools]
 description: >
   I did not really know how Vim's terminal API
