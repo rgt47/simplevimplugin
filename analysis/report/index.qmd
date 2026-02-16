@@ -95,9 +95,7 @@ I am documenting my learning process here. If you
 spot errors or have better approaches, please let
 me know.
 
-![A close-up of a keyboard with Vim key
-labels and a terminal visible in the
-background](media/images/ambiance1.jpg){.img-fluid}
+![](media/images/vim-logo.png){.img-fluid width=30% fig-align="center"}
 
 *Understanding Vim's terminal API opens the door
 to custom development workflows.*
